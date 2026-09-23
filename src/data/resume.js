@@ -34,7 +34,7 @@ export const profile = {
   resumeViewUrl:
     'https://drive.google.com/file/d/1LlUll7Emedl6aRbUofgWIM5AyuUUYhV4/view',
 
-  siteUrl: 'https://mdabdullah.dev',
+  siteUrl: 'https://abdullahalrana.github.io',
 
   highlights: [
     { value: '6', suffix: 'yrs', label: 'Building production software' },
